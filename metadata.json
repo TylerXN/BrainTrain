@@ -1,0 +1,5 @@
+{
+  "name": "NeuroBack - Dual N-Back Trainer",
+  "description": "A cognitive training application designed to improve working memory and fluid intelligence through the Dual N-Back task. Features analytics, customizable difficulty, and performance insights.",
+  "requestFramePermissions": []
+}
